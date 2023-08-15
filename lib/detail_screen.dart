@@ -87,7 +87,7 @@ class _DetailScreenState extends State<DetailScreen> {
             top: height * 0.18,
             right: -30,
             child: Image.asset(
-              'images/pokeball.png',
+              'images/pokemon.png',
               height: 200,
               fit: BoxFit.fitHeight,
             ),
